@@ -19,7 +19,7 @@ This repository contains the course materials of the part of the lectures given 
 
 The materials cover the following subjects:
 
-#### Regression:
+#### Regression
 + Linear models, linear regression
 + Polynomial regression
 + Regularization
@@ -35,19 +35,15 @@ The materials cover the following subjects:
 
 #### Sparsification
 
-** Single value decomposition (SVD)
-
-** CUR decomposition
-
-** Farthest Point Sampling (FPS)
++ Single value decomposition (SVD)
++ CUR decomposition
++ Farthest Point Sampling (FPS)
 
 #### Clustering
 
-** Gaussian mixture model (GMM)
-
-** K-means
-
-** DBSCAN
++ Gaussian mixture model (GMM)
++ K-means
++ DBSCAN
 
 #### Representing structual data using SOAP descriptors
 
