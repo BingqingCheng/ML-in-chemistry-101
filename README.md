@@ -20,10 +20,10 @@ This repository contains the course materials of the part of the lectures given 
 The materials cover the following subjects:
 
 * Regression:
-** Linear models, linear regression
-** Polynomial regression
-** Regularization
-** Kernel regression
++ Linear models, linear regression
++ Polynomial regression
++ Regularization
++ Kernel regression
 
 * Dimensionality reduction
 
