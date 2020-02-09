@@ -26,20 +26,31 @@ The materials cover the following subjects:
 ** Kernel regression
 
 * Dimensionality reduction
+
 ** Curse of the dimensionality
+
 ** blessing of non-uniformity
+
 ** Prerequisite in Statistics and Mathematics
+
 ** Principal component analysis (PCA)
+
 ** Non-linear dimensionality reduction methods
 
 * Sparsification
+
 ** Single value decomposition (SVD)
+
 ** CUR decomposition
+
 ** Farthest Point Sampling (FPS)
 
 * Clustering
+
 ** Gaussian mixture model (GMM)
+
 ** K-means
+
 ** DBSCAN
 
 * Representing structual data using SOAP descriptors
