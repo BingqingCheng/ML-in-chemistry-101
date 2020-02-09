@@ -19,25 +19,21 @@ This repository contains the course materials of the part of the lectures given 
 
 The materials cover the following subjects:
 
-## Regression:
+#### Regression:
 + Linear models, linear regression
 + Polynomial regression
 + Regularization
 + Kernel regression
 
-* Dimensionality reduction
+#### Dimensionality reduction
 
-** Curse of the dimensionality
++ Curse of the dimensionality
++ blessing of non-uniformity
++ Prerequisite in Statistics and Mathematics
++ Principal component analysis (PCA)
++ Non-linear dimensionality reduction methods
 
-** blessing of non-uniformity
-
-** Prerequisite in Statistics and Mathematics
-
-** Principal component analysis (PCA)
-
-** Non-linear dimensionality reduction methods
-
-* Sparsification
+#### Sparsification
 
 ** Single value decomposition (SVD)
 
@@ -45,7 +41,7 @@ The materials cover the following subjects:
 
 ** Farthest Point Sampling (FPS)
 
-* Clustering
+#### Clustering
 
 ** Gaussian mixture model (GMM)
 
@@ -53,7 +49,7 @@ The materials cover the following subjects:
 
 ** DBSCAN
 
-* Representing structual data using SOAP descriptors
+#### Representing structual data using SOAP descriptors
 
 For each lecture, there are accomanpying slides, notes, as well as Python notebooks used for practice.
 
